@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='host_ip';
+USER='hostings_aat';
+PASS='hostings_aat';
+DBNAME='hostings_aat';
+PORT_TCP='1194';
+PORT_UDP='None';
+404: Not Found
